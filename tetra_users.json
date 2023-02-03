@@ -22,5 +22,6 @@
   { "tsi" : "09011638302684021", "name" : "Patricia", "call" : "CT5JTW-8", "location" : "Tetra", "symbol" : "/[", "comment" : "73" },
   { "tsi" : "09011638302089218", "name" : "Francisco", "call" : "F4VSE-8", "location" : "Tetra", "symbol" : "/[", "comment" : "73" },
   { "tsi" : "09011638302683041", "name" : "Carlos", "call" : "CT1END-7", "location" : "Tetra", "symbol" : "/[", "comment" : "73" },
-  { "tsi" : "09011638302682008", "name" : "Pedro", "call" : "CT2HGP-8", "location" : "Tetra", "symbol" : "/[", "comment" : "73" }
+  { "tsi" : "09011638302682008", "name" : "Pedro", "call" : "CT2HGP-8", "location" : "Tetra", "symbol" : "/[", "comment" : "73" },
+  { "tsi" : "09011638302680377", "name" : "Rui", "call" : "CT1EBH-8", "location" : "Tetra", "symbol" : "/[", "comment" : "73" }
 ]
